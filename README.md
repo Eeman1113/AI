@@ -1,5 +1,6 @@
 # AI
 very simple ai code using basic python
-in a simple simplified code
+in a simple simplified way
+
 
 
